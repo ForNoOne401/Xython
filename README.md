@@ -30,7 +30,7 @@ Execute the script to create <file>.xy
 Clean up the .py file
 Make another script in the same directory
 ```python
-import UnXythonize.pyd #This line is important
+import UnXythonize #This line is important
 import <file> #<file>.xy
 #And from here, you can use the functions of <file>.py
 ```
