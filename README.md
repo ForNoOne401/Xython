@@ -40,6 +40,6 @@ import <file> #<file>.xy
  
 > By removing unnecessary high-level constructs and whitespace, then doing magic to the optimized code, Xython ensures a leaner execution process. 
 
-> The XyImporter handles the decompression and execution, maintaining functionality while enhancing performance.
+> The UnXythonize handles the decompliation and execution, maintaining functionality while enhancing performance.
 
 > Xython leverages Python's power, providing a unique method to potentially increase efficiency in certain scenarios.
