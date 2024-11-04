@@ -36,7 +36,7 @@ import <file> #<file>.xy
 ```
 
 # Conception:
-> Xython is an innovative approach to Python optimization, designed to compress and streamline Python code into a more efficient, byte-encoded format.
+> Xython is an innovative approach to Python optimization.
  
 > By removing unnecessary high-level constructs and whitespace, then doing magic to the optimized code, Xython ensures a leaner execution process. 
 
